@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.btn__convert {
+  min-width: 160px;
+  width: 100%;
+}
+.input__result {
+  max-width: 80px;
+}
